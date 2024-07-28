@@ -90,8 +90,3 @@ files may be marked specifically with a different license, in which case that
 license applies to the file in question.
 
 File build-aux/cccl is licensed under the GNU General Public License, version 2.
-
-Contact
--------
-
-bugs@openvswitch.org
